@@ -1,0 +1,60 @@
+PUZone,fare_amount,tip_amount,Duration_Trip,Count,Cluster,Recommendation
+Bath Beach,75.0,22.8,30.0,1,1,Low Fare + Long Duration – Promote Ride Pooling
+Bedford,16.1175,0.0,17.5,4,0,"High Demand – Focus Driver Allocation, Surge Pricing"
+Bensonhurst East,52.7,0.0,45.0,2,2,Low Tip Zones – Offer Incentives or Training
+Bensonhurst West,53.28,1.21,49.0,1,2,Low Tip Zones – Offer Incentives or Training
+Bloomingdale,15.104166666666666,2.267916666666667,12.75,24,0,"High Demand – Focus Driver Allocation, Surge Pricing"
+Boerum Hill,19.406363636363636,3.450909090909091,16.136363636363637,22,0,"High Demand – Focus Driver Allocation, Surge Pricing"
+Brighton Beach,12.1,0.0,9.0,1,0,"High Demand – Focus Driver Allocation, Surge Pricing"
+Brooklyn Heights,24.343200000000003,4.5816,17.52,25,0,"High Demand – Focus Driver Allocation, Surge Pricing"
+Brownsville,14.37,0.26,18.0,1,0,"High Demand – Focus Driver Allocation, Surge Pricing"
+Bushwick North,26.995,5.641666666666667,18.666666666666668,6,0,"High Demand – Focus Driver Allocation, Surge Pricing"
+Bushwick South,31.863333333333333,7.126666666666668,27.333333333333332,3,0,"High Demand – Focus Driver Allocation, Surge Pricing"
+Carroll Gardens,27.849999999999998,5.005,23.5,2,0,"High Demand – Focus Driver Allocation, Surge Pricing"
+Central Harlem,13.27774647887324,1.6593661971830986,10.450704225352112,142,0,"High Demand – Focus Driver Allocation, Surge Pricing"
+Central Harlem North,19.241304347826087,2.204782608695652,14.391304347826088,69,0,"High Demand – Focus Driver Allocation, Surge Pricing"
+Central Park,14.503727272727273,2.495909090909091,11.963636363636363,110,0,"High Demand – Focus Driver Allocation, Surge Pricing"
+Clinton Hill,29.605,5.68,18.5,2,0,"High Demand – Focus Driver Allocation, Surge Pricing"
+Cobble Hill,17.757142857142856,2.3314285714285714,15.714285714285714,7,0,"High Demand – Focus Driver Allocation, Surge Pricing"
+Columbia Street,23.765,2.455,17.0,2,0,"High Demand – Focus Driver Allocation, Surge Pricing"
+Coney Island,42.9,0.0,41.333333333333336,6,2,Low Tip Zones – Offer Incentives or Training
+Crown Heights North,21.981111111111108,2.3844444444444446,21.0,9,0,"High Demand – Focus Driver Allocation, Surge Pricing"
+Crown Heights South,25.6,3.0,31.0,1,0,"High Demand – Focus Driver Allocation, Surge Pricing"
+DUMBO/Vinegar Hill,23.511612903225807,3.071935483870968,18.225806451612904,31,0,"High Demand – Focus Driver Allocation, Surge Pricing"
+Downtown Brooklyn/MetroTech,20.259206349206348,2.563174603174603,17.253968253968253,63,0,"High Demand – Focus Driver Allocation, Surge Pricing"
+East Flatbush/Remsen Village,34.825,0.245,33.0,2,2,Low Tip Zones – Offer Incentives or Training
+East Harlem North,14.292142857142858,2.282765567765568,12.007326007326007,546,0,"High Demand – Focus Driver Allocation, Surge Pricing"
+East Harlem South,14.296186868686869,2.201969696969697,11.704545454545455,396,0,"High Demand – Focus Driver Allocation, Surge Pricing"
+East New York,22.0,4.46,11.0,1,0,"High Demand – Focus Driver Allocation, Surge Pricing"
+East New York/Pennsylvania Avenue,5.5,0.0,4.0,1,0,"High Demand – Focus Driver Allocation, Surge Pricing"
+East Williamsburg,17.366666666666667,1.6166666666666665,15.333333333333334,3,0,"High Demand – Focus Driver Allocation, Surge Pricing"
+Erasmus,28.2,0.0,28.0,1,0,"High Demand – Focus Driver Allocation, Surge Pricing"
+Flatbush/Ditmas Park,29.6,0.0,32.0,1,0,"High Demand – Focus Driver Allocation, Surge Pricing"
+Flatlands,20.5,0.0,31.0,1,0,"High Demand – Focus Driver Allocation, Surge Pricing"
+Fort Greene,17.014205607476637,2.734579439252337,15.77570093457944,107,0,"High Demand – Focus Driver Allocation, Surge Pricing"
+Greenpoint,19.69,3.635833333333333,15.75,12,0,"High Demand – Focus Driver Allocation, Surge Pricing"
+Hamilton Heights,17.79888888888889,2.026666666666667,14.25925925925926,27,0,"High Demand – Focus Driver Allocation, Surge Pricing"
+Inwood,22.448571428571427,2.2800000000000002,21.285714285714285,7,0,"High Demand – Focus Driver Allocation, Surge Pricing"
+Inwood Hill Park,31.66,7.08,21.0,1,0,"High Demand – Focus Driver Allocation, Surge Pricing"
+Manhattanville,15.791111111111112,1.7737037037037038,12.037037037037036,27,0,"High Demand – Focus Driver Allocation, Surge Pricing"
+Marble Hill,18.4,0.0,12.0,1,0,"High Demand – Focus Driver Allocation, Surge Pricing"
+Marine Park/Floyd Bennett Field,16.0,0.0,18.0,1,0,"High Demand – Focus Driver Allocation, Surge Pricing"
+Marine Park/Mill Basin,9.3,0.0,7.0,1,0,"High Demand – Focus Driver Allocation, Surge Pricing"
+Morningside Heights,16.162628205128204,2.9139102564102566,12.948717948717949,156,0,"High Demand – Focus Driver Allocation, Surge Pricing"
+Ocean Hill,45.08,6.91,34.0,1,2,Low Tip Zones – Offer Incentives or Training
+Park Slope,22.271666666666665,3.165833333333333,22.166666666666668,12,0,"High Demand – Focus Driver Allocation, Surge Pricing"
+Prospect Heights,43.34,7.415,38.5,4,2,Low Tip Zones – Offer Incentives or Training
+Prospect Park,21.9,4.68,21.0,1,0,"High Demand – Focus Driver Allocation, Surge Pricing"
+Prospect-Lefferts Gardens,21.566666666666666,4.513333333333333,18.0,3,0,"High Demand – Focus Driver Allocation, Surge Pricing"
+Red Hook,41.199999999999996,8.856666666666667,27.333333333333332,3,2,Low Tip Zones – Offer Incentives or Training
+Sheepshead Bay,24.28333333333333,1.4608333333333334,24.083333333333332,12,0,"High Demand – Focus Driver Allocation, Surge Pricing"
+South Williamsburg,48.21,0.92,100.0,1,2,Low Tip Zones – Offer Incentives or Training
+Stuyvesant Heights,22.099999999999998,2.5233333333333334,19.333333333333332,3,0,"High Demand – Focus Driver Allocation, Surge Pricing"
+Sunset Park East,29.09,0.54,25.0,1,0,"High Demand – Focus Driver Allocation, Surge Pricing"
+Upper East Side North,12.700000000000001,2.8075,9.785714285714286,28,0,"High Demand – Focus Driver Allocation, Surge Pricing"
+Upper West Side South,77.0,17.46,43.0,1,1,Low Fare + Long Duration – Promote Ride Pooling
+Washington Heights North,16.82,1.01,14.6,5,0,"High Demand – Focus Driver Allocation, Surge Pricing"
+Washington Heights South,23.603684210526314,3.631447368421053,16.986842105263158,76,0,"High Demand – Focus Driver Allocation, Surge Pricing"
+Williamsburg (North Side),19.511875,3.325625,15.0625,16,0,"High Demand – Focus Driver Allocation, Surge Pricing"
+Williamsburg (South Side),27.095999999999997,2.966,17.6,5,0,"High Demand – Focus Driver Allocation, Surge Pricing"
+Yorkville West,12.45,2.465,8.5,2,0,"High Demand – Focus Driver Allocation, Surge Pricing"
